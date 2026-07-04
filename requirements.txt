@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+catboost
+xgboost
+shap
+mne
+pywavelets
+dtaidistance
+imbalanced-learn
+statsmodels
+matplotlib
+seaborn
+psutil
+tqdm
