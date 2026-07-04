@@ -1,6 +1,11 @@
 # MRS-SHAP: Multi-Objective Explainable EEG Feature Selection Framework for ADHD Detection
 
-This repository implements the complete processing, feature extraction, feature selection, and classification pipeline described in the manuscript: **"MRS-SHAP: Multi-objective explainable EEG feature selection framework for ADHD detection"**.
+This repository implements the complete processing, feature extraction, feature selection, and classification pipeline described in the paper:
+
+> **MRS-SHAP: Multi-objective explainable EEG feature selection framework for ADHD detection**  
+> Mohammed Atheef G A, Shyam Pranav G, and Omkar S Powar  
+> *Discover Applied Sciences* (2026)  
+> DOI: [10.1007/s42452-026-08788-7](https://doi.org/10.1007/s42452-026-08788-7)
 
 The framework combines SHAP-based feature importance, Dynamic Time Warping (DTW)-based temporal stability, and inner-loop cross-validation performance weighting into a unified ranking score (MRS-SHAP) to select robust, explainable, and neurophysiologically relevant EEG features for ADHD classification.
 
